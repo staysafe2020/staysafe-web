@@ -1,0 +1,13 @@
+#body{
+    background-image: url("../image/LOGIN.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size:cover;
+    -moz-background-size:cover;    
+}
+#form{
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 20px;
+}
